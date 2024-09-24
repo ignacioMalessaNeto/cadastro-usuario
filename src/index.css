@@ -10,5 +10,5 @@
 body {
   min-height: 100vh;
   width: 100vw;
-  background: linear-gradient(180deg, #15E380 0%, #A1A1A1 100%);
+  background: linear-gradient(to right, #1d2b64, #f8cdda);
 }
